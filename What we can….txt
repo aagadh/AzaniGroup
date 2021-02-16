@@ -1,0 +1,7 @@
+Residential buildings
+Institutional buildings
+Assembly buildings
+Business buildings
+Mercantile buildings
+Industrial buildings
+

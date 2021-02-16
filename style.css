@@ -1,0 +1,87 @@
+.class{
+    width: 100%;
+}
+
+.box{
+    width:100%;
+    border: solid 1px;
+    margin-top: 20px;
+    background-color:lightslategray;
+    color: white;
+
+}
+
+
+
+li{
+    list-style-type: none;
+}
+
+.box1{
+    width:100%;
+    background-color:burlywood;
+    color: white;
+    border: solid 1px;
+    margin-top:10px;
+}
+
+body{
+    background:lightcyan;
+}
+
+.list1{
+    width: 50%;
+}
+
+.box4{
+    width:100%;
+    border: solid 1px;
+    margin-top:10px;
+
+}
+
+
+.footer-top{
+    font-size: 14px;
+    font-family: "Jost", sans-serif;
+    color: #5e5e5e;
+}
+
+.contact-h4{
+    font-size: 24px;
+    font-weight: 600;
+    color: #37517e;
+}
+
+.footer-contact h3{
+    font-size: 28px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #37517e;
+}
+
+.cta {
+    background: linear-gradient(rgba(40, 58, 90, 0.9), rgba(40, 58, 90, 0.9)), url(../img/cta-bg.jpg) fixed center center;
+    background-size: cover;
+    padding: 80px 0;
+    color:white;
+
+
+}
+
+.who{
+    font-size: 28px;
+    text-transform: uppercase;
+    font-weight: 600;
+    color: #37517e;
+}
+
+
+.who-p{
+        font-size: 14px;
+        font-family: "Jost", sans-serif;
+        color: #5e5e5e;
+}
+
+
+
